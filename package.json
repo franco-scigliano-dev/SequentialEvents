@@ -1,0 +1,19 @@
+{
+  "name": "com.fscigliano.sequentialevents",
+  "version": "1.0.0",
+  "displayName": "Sequential Events",
+  "description": "Runs editor defined UnityEvents in sequence with a visual debug inspector",
+  "unity": "2021.3",
+  "author": {
+    "name": "Franco Scigliano",
+    "email": "franco.scigliano.dev@gmail.com",
+    "url": "https://github.com/franco-scigliano-dev/SequentialEvents"
+  },
+  "dependencies": {
+    "com.fscigliano.reflectionextensions": "https://github.com/franco-scigliano-dev/ReflectionExtensions.git#v1.0.0"
+  },
+  "keywords": [
+    "tool",
+    "registrables"
+  ]
+}

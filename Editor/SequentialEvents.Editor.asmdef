@@ -1,0 +1,19 @@
+{
+    "name": "com.fscigliano.sequentialevents.editor",
+    "rootNamespace": "",
+    "references": [
+        "com.fscigliano.reflection-extensions.editor",
+        "com.fscigliano.sequentialevents"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
